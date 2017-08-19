@@ -1,0 +1,10 @@
+@keyframes example {
+    forom {background-color: aqua;}
+    to {background-color: blueviolet}
+}
+.red_border:hover {
+    background-color: aqua;
+    animation-name: example;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}

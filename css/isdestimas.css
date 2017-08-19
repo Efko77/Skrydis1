@@ -1,0 +1,31 @@
+.ketvirtas div {
+    float: left;
+
+}
+.d1_4 {
+    width: 30%;
+}
+.d2_4 {
+    width: 30%;
+}
+.d3_4 {
+    width: 30%;
+}
+.d4_4 {
+    width: 98%;
+}
+.d2_1 {
+    width: 50%;
+}
+.antras2_1 {
+    width: 80%;
+   }
+.antras2_2 {
+    width: 20%;
+}
+.trecias {
+    float: right;
+}
+.aukstis {
+    height: 120px;
+}
